@@ -2,4 +2,4 @@
 this is my first repository
 
 
-author is rahul vaskar
+author is rahul vaskar (cool dude)
